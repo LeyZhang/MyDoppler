@@ -1,0 +1,14 @@
+org.achartengine.achartengine
+drawable achartengine
+id add
+id chart
+id new_series
+id xValue
+id yValue
+layout xy_chart
+string add
+string add_values
+string app_name
+string new_series
+string x
+string y

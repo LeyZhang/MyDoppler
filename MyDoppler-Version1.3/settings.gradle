@@ -1,0 +1,3 @@
+include ':app', ':doppler'
+rootProject.name='MyDoppler'
+include ':aChartEngine'
